@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My First Website</title>
+</head>
+<body>
+	<h1>LOGO</h1>
+	<h4>LOGIN</h4>
+	<h4>SIGNIN</h4>
+	<h4>ABOUT US</h4>
+	<h2>LOGIN/SIGNUP</h2>
+	<form>
+		<label>Email-Address</label><br><br>
+		<input type="Email" name="User_Mail" placeholder="Enter Email"><br><br>
+		<label>Password</label><br><br>
+		<input type="Password" name="User_Password" placeholder="Enter Password"><br><br>
+		<input type="Submit" name=""><br>
+		<!--<input type="Submit" placeholder="Want to share your Thoughts....?">-->
+	</form>
+	<h2>FEATURES AVAIALABLE</h2>
+	<img src="https://t4.ftcdn.net/jpg/01/03/36/79/240_F_103367900_AyuT23feh8qkMNw8MiFu3ZMFuVpgWfiX.jpg" width = 200>
+	<p>Features About : <br>EDUCATION <br>Feature Description: <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<img src="https://t4.ftcdn.net/jpg/04/02/63/15/240_F_402631518_7YcGVrKSocl2E0Iud1sYSy6xUXX9QEUN.jpg" width = 200>
+	<p>Features About : <br>CRICKET <br>Feature Description: <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<img src="https://image.flaticon.com/icons/png/128/3172/3172555.png" width = 100>
+	<p>Features About : <br>MOVIES <br>Feature Description: <br>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+	<h2>Want to share Your Thoughts...?</h2><br>
+	<img src="https://image.flaticon.com/icons/png/128/983/983048.png" width = 100><br>
+	<h2>Share your Thoughts Here...</h2><br>
+	<img src="https://t4.ftcdn.net/jpg/03/36/15/83/240_F_336158342_dGzHOYpIhDpmFZ4Io4xr9wKmK7utbYK4.jpg" width = 200>
+	<h3>ABOUT US</h3><br>
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	<h3>Follow us here at : </h3><br>
+	<img src="https://image.flaticon.com/icons/png/128/2111/2111463.png" width = 50>
+	<img src="https://image.flaticon.com/icons/png/128/1384/1384053.png" width = 50>
+	<img src="https://image.flaticon.com/icons/png/128/1384/1384060.png" width = 50>
+	<img src="https://image.flaticon.com/icons/png/128/174/174857.png" width = 50>
+	<h3>COPYRIGHTS ALUMNI 2020</h3>
+</body>
+</html>
